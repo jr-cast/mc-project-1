@@ -24,11 +24,11 @@ professional documentation to making pull requests.
 
 For instructions of how to install the required dependencies, please visit:
 
-* [https://github.com/microverseinc/linters-config]
+* https://github.com/microverseinc/linters-config
 
 Not familiar with node & npm, please visit:
 
-* [https://docs.npmjs.com/downloading-and-installing-node-js-and-npm]
+* https://docs.npmjs.com/downloading-and-installing-node-js-and-npm
 
 ## Authors
 
@@ -36,7 +36,7 @@ Not familiar with node & npm, please visit:
 
 * GitHub: @jr-cast
 * Twitter: @josercastanos
-* LinkedIn: [https://www.linkedin.com/in/jr-cast/]
+* LinkedIn: https://www.linkedin.com/in/jr-cast/
 
 ## Contributing
 
